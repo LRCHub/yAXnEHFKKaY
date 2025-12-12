@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "PSYCHO",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2025-12-12T17:33:17.791051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Psycho (Yours Truly: 2018)",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/01_Psycho_(Yours_Truly__2018)_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Something in the Air - American Psycho Remix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_Something_in_the_Air_-_American_Psycho_Remix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Something in the Air (American Psycho Remix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Something_in_the_Air_(American_Psycho_Remix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Psycho (feat. Adamn Killa)",
+      "artist": "Bladee feat. Adamn Killa",
+      "has_synced": true,
+      "path": "select/04_Psycho_(feat._Adamn_Killa)_Bladee_feat._Adamn_Killa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Psycho (feat. Adamn Killa)",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/05_Psycho_(feat._Adamn_Killa)_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Another Psycho",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/06_Just_Another_Psycho_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nathan Jones - Psycho 7\" Edit",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/07_Nathan_Jones_-_Psycho_7__Edit_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Psycho Killer",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/08_Psycho_Killer_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Psycho Killer - Acoustic",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/09_Psycho_Killer_-_Acoustic_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Psycho",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/10_Psycho_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Adrenaline (feat. Twista & Psycho Drama)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/11_Adrenaline_(feat._Twista_&_Psycho_Drama)_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Psycho Bitch",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/12_Psycho_Bitch_Charles_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Psycho Blonde",
+      "artist": "Colony 5",
+      "has_synced": true,
+      "path": "select/13_Psycho_Blonde_Colony_5.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Psycho Killer",
+      "artist": "Cage the Elephant",
+      "has_synced": false,
+      "path": "select/14_Psycho_Killer_Cage_the_Elephant.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Psycho Nightmare",
+      "artist": "Daniel Johnston",
+      "has_synced": false,
+      "path": "select/15_Psycho_Nightmare_Daniel_Johnston.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Psycho City",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/16_Psycho_City_Great_White.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Psycho City",
+      "artist": "Quiet Riot",
+      "has_synced": false,
+      "path": "select/17_Psycho_City_Quiet_Riot.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Psycho Man",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/18_Psycho_Man_Black_Sabbath.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PSYCHO",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_PSYCHO_BABYMONSTER.txt"
+    }
+  ]
+}
